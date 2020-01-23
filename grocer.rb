@@ -10,11 +10,11 @@ nil
 end
 
 def consolidate_cart(cart)
-  # Consult README for inputs and outputs
-  #
-  # REMEMBER: This returns a new Array that represents the cart. Don't merely
-  # change `cart` (i.e. mutate) it. It's easier to return a new thing.
-end
+  new_cart = []
+  i = 0
+  while i < cart.length
+    
+  end
 
 def apply_coupons(cart, coupons)
   # Consult README for inputs and outputs
