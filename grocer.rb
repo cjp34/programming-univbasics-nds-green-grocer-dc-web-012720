@@ -23,6 +23,7 @@ def consolidate_cart(cart)
         :clearance => cart[i][:clearance]
         :count => 1
       }
+      
     end
   i += 1  
   end
