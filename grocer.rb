@@ -17,7 +17,9 @@ def consolidate_cart(cart)
     if new_cart_item
       new_cart_item[:count] += 1
     else
-      new_cart.push(new_cart_item)
+      new_cart.push = {
+        
+      }
   i += 1  
   end
 
